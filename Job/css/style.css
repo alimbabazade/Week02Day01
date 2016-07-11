@@ -1,0 +1,95 @@
+
+
+html, body {
+
+	margin: 0;
+	padding: 0;
+
+}
+
+.main {
+	margin: 0 auto;
+	width: 1200px;
+}
+
+.lightblue {
+
+	background-color: lightblue;
+	color: white;
+}
+
+.lightgreen {
+
+	background-color: lightgreen;
+	color: white;
+}
+
+.brown {
+
+	background-color: brown;
+	color:white;
+
+}
+
+
+.yellow {
+	background-color: yellow;
+	color: white;
+}
+
+
+.header .menu .slider .footer {
+	width: 100%;
+}
+
+.header {
+	height: 100px;
+}
+
+.menu {
+	height: 40px;
+}
+
+.slider {
+	height: 300px;
+}
+
+.slider div p {
+
+	margin: 0px;
+}
+
+.slider div p img {
+	width: 300px;
+	float: left;
+	margin: 10px;
+	margin-right: 30px;
+
+
+}
+
+.footer {
+	height: 90px;
+	clear: both;
+}
+
+
+.main .news div {
+	width: 400px;
+	height: 370px;
+	float: left;
+}
+
+.main .news div:nth-child(odd) p {
+	background-color: yellow;
+
+
+}
+
+.main .news div:nth-child(2) p {
+
+	font-family: Verdana;
+}
+
+
+
